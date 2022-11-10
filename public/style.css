@@ -29,6 +29,8 @@ body{
 }
 .pass{
     background: linear-gradient(180deg, rgba(0, 0, 0, 0) 39.06%, rgba(0, 0, 0, 0.97) 90.62%);
+    background-position: center center;
+    /* background-size: cover; */
 }
 .razmer{
     font-size: 24px;
